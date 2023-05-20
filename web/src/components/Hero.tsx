@@ -1,3 +1,4 @@
+import Link from "next/link";
 import spaceLogo from "../assets/spacetime-logo.svg";
 import Image from "next/image";
 
@@ -14,12 +15,12 @@ export const Hero = () => {
           com o mundo!
         </p>
       </div>
-      <a
-        href="#"
+      <Link
+        href="/memories/new"
         className="inline-block rounded-full bg-green-500 px-5 py-3 font-alt text-sm uppercase leading-none text-gray-950 transition-colors hover:bg-green-700"
       >
         CADASTRAR LEMBRANÇA
-      </a>
+      </Link>
     </div>
   );
 };
