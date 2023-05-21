@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" alt="Project NLW Spacetime" title="Project NLW Spacetime" src=".github/spacetime-logo.svg" />
+  <!-- <img width="200px" alt="Project NLW Spacetime" title="Project NLW Spacetime" src="./assets/spacetime-logo.svg" /> -->
   
   <h1 align="center">Project NLW Spacetime</h1>
 
